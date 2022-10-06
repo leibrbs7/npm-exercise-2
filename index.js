@@ -1,4 +1,3 @@
-
 const process = require('process');
 
 let args = process.argv.slice(2);
